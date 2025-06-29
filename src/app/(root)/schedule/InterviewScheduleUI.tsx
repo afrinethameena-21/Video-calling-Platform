@@ -23,7 +23,7 @@ import {
 } from "@/components/ui/select";
 import UserInfo from "@/components/UserInfo";
 import { Loader2Icon, XIcon } from "lucide-react";
-import { Calendar } from "@/components/ui/calender";
+import { Calendar } from "@/components/ui/calendar";
 import { TIME_SLOTS } from "@/constants";
 import MeetingCard from "@/components/MeetingCard";
 
